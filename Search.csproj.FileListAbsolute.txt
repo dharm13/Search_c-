@@ -1,0 +1,15 @@
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\bin\Debug\net8.0\Search.exe
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\bin\Debug\net8.0\Search.deps.json
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\bin\Debug\net8.0\Search.runtimeconfig.json
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\bin\Debug\net8.0\Search.dll
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\bin\Debug\net8.0\Search.pdb
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.AssemblyInfo.cs
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.sourcelink.json
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.dll
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\refint\Search.dll
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.pdb
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\Search.genruntimeconfig.cache
+C:\Users\Dharm\OneDrive\Desktop\level-2\wp-2\Labs\lab-2\Search-dharm13\obj\Debug\net8.0\ref\Search.dll
